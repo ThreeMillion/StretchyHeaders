@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C819C2281C414F19006A1285 /* Untitled.gif in Resources */ = {isa = PBXBuildFile; fileRef = C819C2271C414F19006A1285 /* Untitled.gif */; };
 		C8666FD51C40EB24006CDA00 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8666FD41C40EB24006CDA00 /* AppDelegate.swift */; };
 		C8666FD71C40EB24006CDA00 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8666FD61C40EB24006CDA00 /* ViewController.swift */; };
 		C8666FDA1C40EB24006CDA00 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8666FD81C40EB24006CDA00 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C819C2271C414F19006A1285 /* Untitled.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Untitled.gif; sourceTree = "<group>"; };
 		C8666FD11C40EB24006CDA00 /* StretchyHeaders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StretchyHeaders.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8666FD41C40EB24006CDA00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C8666FD61C40EB24006CDA00 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		C8666FD31C40EB24006CDA00 /* StretchyHeaders */ = {
 			isa = PBXGroup;
 			children = (
+				C819C2271C414F19006A1285 /* Untitled.gif */,
 				C8666FD41C40EB24006CDA00 /* AppDelegate.swift */,
 				C8666FD61C40EB24006CDA00 /* ViewController.swift */,
 				C8666FD81C40EB24006CDA00 /* Main.storyboard */,
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8666FDF1C40EB24006CDA00 /* LaunchScreen.storyboard in Resources */,
+				C819C2281C414F19006A1285 /* Untitled.gif in Resources */,
 				C8666FDC1C40EB24006CDA00 /* Assets.xcassets in Resources */,
 				C8666FDA1C40EB24006CDA00 /* Main.storyboard in Resources */,
 			);
@@ -292,6 +296,7 @@
 				C8666FE51C40EB24006CDA00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
